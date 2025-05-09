@@ -41,7 +41,7 @@ A real-time one-to-one chat application built with **React**, **Socket.IO**, **N
 
 ```bash
 git clone https://github.com/ranjeetvit2012/react-chat-socket.git
-cd your-repo-name
+cd react-chat-socket
 ```
 
 ### 2. Install dependencies
@@ -83,7 +83,7 @@ MONGODB_URI=your_mongodb_connection_string
 
 ## 📸 Screenshots
 
-_You can add images of your app here (chat screen, emoji picker, etc.)_
+![Chat Window](https://github.com/ranjeetvit2012/react-chat-socket/blob/master/chat.png?raw=true)
 
 ## 🤝 Contributing
 
